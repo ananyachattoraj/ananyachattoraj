@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Ananya
+
+## About Me
+I'm a former educator and researcher with a PhD in Philosophy. In my previous life, I taught courses on tech ethics and video games while researching the value of data in scientific communities. These days, I've channeled my love of spreadsheets into data science. 
 
 <!--
 **ananyachattoraj/ananyachattoraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
