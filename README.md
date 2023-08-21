@@ -8,7 +8,7 @@ I believe in looking at a problem from all levels, big and small. My data-driven
 #### Projects
 - 🔍 [Image Captioning](https://github.com/ananyachattoraj/capstone): Creating a model with the Flickr8K dataset (hosted on Kaggle) & EfficientnetV2S to generate single sentence captions from input images. Demo video complete; further iterations on hiatus.
 - 🧶 [Knitting Stitch Classifier](https://github.com/ananyachattoraj/stitch_classifier): Building a model to classify knitting stitches using web-scraped images. Modeling underway.
-- 🏋️‍♀️ [International Powerlifting Federation Analysis](https://github.com/ananyachattoraj/ipf_next_lift): Cleaning and analyzing data from the International Powerlifting Federation from its inception to Aug 2023. Eventual goal is to create a predictive model that can help a user select their next squat/bench/deadlift attempt given competition sex, weight, and previous max. Cleaning underway
+- 🏋️‍♀️ [International Powerlifting Federation Analysis](https://github.com/ananyachattoraj/ipf_next_lift): Cleaning and analyzing data from the International Powerlifting Federation from its inception to Aug 2023. Eventual goal is to create a predictive model that can help a user select their next squat/bench/deadlift attempt given competition sex, weight, and previous max. Analysis underway
 
 #### Toolbox
 - 🐍 Python, R
