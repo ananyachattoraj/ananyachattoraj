@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Ananya, a Data Enthusiast 📊🚀
 
 #### About Me
-I'm a former educator and researcher with a PhD in Philosophy. In my previous life, I taught courses on tech ethics and video games while researching the value of data in scientific communities. These days, I've channeled my love of spreadsheets into data science. My current major interests are computer vision and NLP, but I've never met a CSV I haven't loved. I'm now excited to utilize my analytics problem solving and technical skills in an analyst or machine learning position.
+I'm a former educator and researcher with a PhD in Philosophy. In my previous life, I taught courses on tech ethics and video games while researching the value of data in scientific communities. These days, I've channeled my love of spreadsheets into data science. After completing a Data Science bootcamp from BrainStation, my current major interests are computer vision and NLP, but I've never met a CSV I haven't loved. I'm now excited to utilize my analytics problem solving and technical skills in an analyst or machine learning position.
 
 I believe in looking at a problem from all levels, big and small. My data-driven solutions always keep the social values and contexts of data in mind. The world goes beyond a ".fit" and so should our data practices. Let's build a data science community that works for humans.
 
